@@ -41,7 +41,7 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 
     npm install -g bower
 
-##### Initialize project from deafult templte from google (original but hrader for beginners)
+##### Initialize project from deafult templte from google (original but harder for beginners)
     mkdir my-app
     cd my-app
     polymer init polymer-2-starter-kit
@@ -50,7 +50,7 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 
 This repo is created for beinners users who new to polymer and pwa so use bellow technique .
 
-##### Initialize project from this github templete
+##### Initialize project from this github templete(Recomended)
     install git-scm
     mkdir my-pwa 
     cd my-pwa 
