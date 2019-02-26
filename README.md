@@ -51,7 +51,6 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 This repo is created for beinners users who new to polymer and pwa so use bellow technique .
 
 ##### Initialize project from this github templete(Recomended)
-    install git-scm
     mkdir my-pwa 
     cd my-pwa 
     git clone https://github.com/Rajdeep-Das/polymer-starter-kit-custom.git
