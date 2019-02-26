@@ -18,13 +18,9 @@ The PRPL pattern, in a nutshell:
 * **Pre-cache** components for remaining routes
 * **Lazy-load** and progressively upgrade next routes on-demand
 
-### Migrating from Polymer Starter Kit v1?
-
-[Check out our blog post that covers what's changed in PSK2 and how to migrate!](https://www.polymer-project.org/1.0/blog/2016-08-18-polymer-starter-kit-or-polymer-cli.html)
-
 ### Quickstart
 
-We've recorded a Polycast to get you up and running with PSK2 fast!
+Google recorded a Polycast to get you up and running with PSK2 fast!
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=HgJ0XCyBwzY&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=10">
@@ -45,11 +41,22 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 
     npm install -g bower
 
-##### Initialize project from template
-
+##### Initialize project from deafult templte from google (original but hrader for beginners)
     mkdir my-app
     cd my-app
     polymer init polymer-2-starter-kit
+
+### Recomended Below for Beginners
+
+This repo is created for beinners users who new to polymer and pwa so use bellow technique .
+
+##### Initialize project from this github templete
+    install git-scm
+    mkdir my-pwa 
+    cd my-pwa 
+    git clone https://github.com/Rajdeep-Das/polymer-starter-kit-custom.git
+    cd polymer-starter-kit-custom
+    npm install
 
 ### Start the development server
 
