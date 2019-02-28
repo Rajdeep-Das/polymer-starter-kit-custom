@@ -129,3 +129,14 @@ application. Each new demand-loaded fragment should be added to the list of
 `fragments` in the included `polymer.json` file. This will ensure those
 components and their dependencies are added to the list of pre-cached components
 and will be included in the build.
+
+
+### Add FireBase Athentication
+
+ Polycast to get you up and running firebase ath with PSK2 fast!
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SkhCs-IDgS4">
+    <img src="https://img.youtube.com/vi/HgJ0XCyBwzY/0.jpg" alt="Polymer FireBase Auth video">
+  </a>
+</p>
